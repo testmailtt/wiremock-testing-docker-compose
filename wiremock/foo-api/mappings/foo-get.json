@@ -1,11 +1,6 @@
 {
     "request": {
-      "urlPath": "/foo",
-      "queryParameters" : {
-        "name" : {
-          "matches" : ".+"
-        }
-      }
+      "urlPath": ":3000/foo"
     },
     "response": {
       "status": 200,
