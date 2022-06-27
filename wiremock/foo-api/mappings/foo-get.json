@@ -1,6 +1,6 @@
 {
     "request": {
-      "urlPath": ":3000/foo"
+      "urlPath": "([a-zA-Z0-9_.]*)"
     },
     "response": {
       "status": 200,
